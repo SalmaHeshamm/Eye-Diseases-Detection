@@ -1,6 +1,6 @@
 # 👀 Eye Disease Classifier
 
-A **Streamlit web app** to classify **4 types of eye diseases** using an **EfficientNet-B3 model**. Users can upload an eye image and instantly get the predicted disease along with the confidence score.
+A **Streamlit web app** to classify **3 types of eye diseases** using an **EfficientNet-B3 model**. Users can upload an eye image and instantly get the predicted disease along with the confidence score.
 
 ---
 
