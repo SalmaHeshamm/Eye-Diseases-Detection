@@ -27,10 +27,10 @@ The dataset consists of **retinal images** for the following classes:
 ## Demo
 
 ![App Screenshot](images/screen.png)  
-*Screenshot showing the upload box and prediction result.*
+*Screenshot showing the upload box.*
 
 ![Prediction Result](images/screen2.png)  
-*Screenshot showing the upload box and prediction result.*
+*Screenshot showing the prediction result.*
 
 
 ---
@@ -53,5 +53,5 @@ pip install -r requirements.txt
 3. Run the Streamlit app:
 
 ```bash
-streamlit run main.py
+streamlit run app.py
 ```
