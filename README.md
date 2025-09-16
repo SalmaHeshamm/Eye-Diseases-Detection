@@ -27,8 +27,9 @@ The dataset consists of **retinal images** for the following classes:
 ## Demo
 
 ![App Screenshot](images/Screenshot 2025-09-16 at 4.24.29 PM.png)  
-![Prediction Result](images/Screenshot 2025-09-16 at 4.25.23 PM.png)  
 *Screenshot showing the upload box and prediction result.*
+
+![Prediction Result](images/Screenshot 2025-09-16 at 4.25.23 PM.png)  
 
 
 ---
